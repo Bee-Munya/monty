@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * _queue - sets the format of the data to a queue (FIFO)
+ * _queue - sets the format of the data to a queue (FIFO) stack
  *
  * @doubly: head of the linked list
  * @cline: line number;
